@@ -109,13 +109,17 @@ The data uploaded can be really valuable.  Everyone needs to be clear about how 
 
 Client provides an [expansive licence](https://github.com/lawpatch/au-ip_license/blob/bb178c5e86fec053f249c72cb4d6cd56af88825b/au-license_ip.md) to Contractor in order to provide the Services.
 
-### Client provides a restrictive licecne over the Data for the Contractor to provide the Services.
+### Client provides a restrictive licence over the Data for the Contractor to provide the Services.
 
 Client provides an [restrictive licence](http://lawpatch.org) to Contractor in order to provide the Services.
 
 ## Limitation
 
 https://github.com/CodePact/au-components/blob/master/limitation.md
+
+## Covering costs
+
+https://github.com/CodePact/au-components/blob/staging/indemnity.md
 
 ## Agreement changes
 
