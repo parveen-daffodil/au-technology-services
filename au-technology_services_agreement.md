@@ -75,7 +75,7 @@ If the Customer fails to pay any amount due under the Agreement more than {{shut
 
 ## Confidentiality
 
-http://github.com/CodePact/au-components/blob/master/confidentiality.md
+https://github.com/CodePact/au-components/blob/master/confidentiality.md
 
 ## Use of service
 
@@ -142,7 +142,7 @@ https://github.com/CodePact/au-components/blob/master/end_agreement.md
 ### Services
 means {{services description}}.
 
-## Support Policy
+### Support Policy
 means the document entitled {{support policy name}} at {{support policy URL}}.
 
 ### Term
