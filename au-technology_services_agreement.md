@@ -119,7 +119,7 @@ https://github.com/CodePact/au-components/blob/master/limitation.md
 
 ## Covering costs
 
-https://github.com/CodePact/au-components/blob/staging/indemnity.md
+https://github.com/CodePact/au-components/blob/master/indemnity.md
 
 ## Agreement changes
 
@@ -160,3 +160,8 @@ means {{work scope}}.
 - any contractor providing a good or service used to provide the Services;
 - its lawyers, insurance brokers or accountants; and
 - any related entity.
+
+### risk list
+
+- [risk 1]
+- [risk 2]
