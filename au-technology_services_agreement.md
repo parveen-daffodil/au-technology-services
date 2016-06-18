@@ -168,6 +168,7 @@ means {{work scope}}.
 - its lawyers, insurance brokers or accountants; and
 - any related entity.
 
+<<<<<<< HEAD
 #### risk list
 
 - [risk 1]
