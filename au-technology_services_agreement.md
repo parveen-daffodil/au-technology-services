@@ -119,7 +119,7 @@ https://github.com/CodePact/au-components/blob/master/limitation.md
 
 ## Covering costs
 
-https://github.com/CodePact/au-components/blob/staging/indemnity.md
+https://github.com/CodePact/au-components/blob/master/indemnity.md
 
 ## Agreement changes
 
