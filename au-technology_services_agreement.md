@@ -124,7 +124,7 @@ https://github.com/CodePact/au-components/blob/master/agreement_changes.md
 
 https://github.com/CodePact/au-components/blob/master/cancel_breach.md
 
-## Termination for convenience
+## Cancellation for convenience
 
 https://github.com/CodePact/au-components/blob/master/cancel_convenience.md
 
