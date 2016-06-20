@@ -50,7 +50,7 @@ It's a good idea for a Customer to know just how much help you're willing to pro
 
 ### Contractor will provide support based on the Support Policy.
 
-Contractor will provide support and maintenance as descrbed by the Support Policy.
+Contractor will provide support and maintenance as described by the Support Policy.
 
 ### Contractor will provide ad-hoc support based on its discretion.
 
@@ -146,10 +146,13 @@ means any information disclosed by the Customer to the Contractor in connection 
 
 unconnected with a breach of the Agreement by either party.
 
+### Data
+means any data or information conveyed to the Service by the Customer.
+
 ### Product IP
 means the intellectual property in {{product intellectual property}}.
 
-### Services
+### Services, Service
 means {{services description}}.
 
 ### Support Policy
@@ -182,6 +185,10 @@ month
 
 `Guidance` Fill in this variable with a time period for the billing cycle. It’s great to get paid weekly, but you have to issue an invoice before you get paid. The billing cycle period is a balance between keeping your cash flow regular and the administrative overhead of issuing the invoices required to get paid.
 
+#### cancellation notice period
+
+`Guidance` Fill in this variable with the time period you want to provide notice of cancellation within. 
+
 #### completion amount
 
 50% of the total amount payable for the Services
@@ -213,6 +220,10 @@ month
 
 `Guidance` Fill in the [markdown table](https://help.github.com/articles/github-flavored-markdown/) with the cost components of the services. In the left column, describe the service, and in the right column, describe the price as a dollar value.
 
+#### fees url
+
+`Guidance` Provide the url of the page that you set out your fees in.
+
 #### governing law state
 
 New South Wales
@@ -229,7 +240,25 @@ New South Wales
 
 [FIRST AREA]
 
+#### indemnified risk list
 
+[PARTY RISKS]
+
+- Customer's breach of the Agreement;
+- any negligent act of the Customer connected with the Services;
+- third party reliance on the Services under a contract with the Customer;
+- Customer's use of the Services in connection with unlawful activity;
+
+[DATA LAW]
+
+- Customer's breach of any privacy law;
+- Customer's breach of any law in connection with spam;
+- Customer's storing of any third party data on the Services;
+- a third party pursuing a right conferred by privacy law;
+
+[INTELLECTUAL PROPERTY]
+
+- any legal action taken by a third party alleging intellectual property infringement by the Customer in connection with the Services.
 
 #### licence characteristics
 
