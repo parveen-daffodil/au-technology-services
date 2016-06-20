@@ -62,9 +62,9 @@ Contractor will provide support based on the details described in the Work Scope
 
 ## Intellectual property protection
 
-- Contractor reserves the right to alter any element of the Services at its discretion.
-- Customer agrees not to reverse engineer any part of the Services.
-- No licence is granted over any intellectual property in the Services unless explictly described in the Agreement.
+- Contractor reserves the right to alter any element of the Product IP at its discretion.
+- Customer agrees not to reverse engineer any part of the Product IP.
+- No licence is granted over any intellectual property in the Product IP unless explictly described in the Agreement.
 
 ## Failure to pay
 
@@ -146,6 +146,9 @@ means any information disclosed by the Customer to the Contractor in connection 
 
 unconnected with a breach of the Agreement by either party.
 
+### Product IP
+means the intellectual property in {{product intellectual property}}.
+
 ### Services
 means {{services description}}.
 
@@ -215,6 +218,18 @@ month
 New South Wales
 
 `Guidance` This is the state that you will go to court in if there’s legal action under this document. It’s usually better to have a "home court" advantage. If your business is in New South Wales, make the forum the New South Wales courts.
+
+#### indemnity topics
+
+[FIRST AREA]
+
+
+[FIRST AREA]
+
+
+[FIRST AREA]
+
+
 
 #### licence characteristics
 
