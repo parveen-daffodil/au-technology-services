@@ -152,7 +152,7 @@ means any data or information conveyed to the Service by the Customer.
 ### Product IP
 means the intellectual property in {{product intellectual property}}.
 
-### Services, Service
+### Service, Services
 means {{services description}}.
 
 ### Support Policy
@@ -229,16 +229,6 @@ month
 New South Wales
 
 `Guidance` This is the state that you will go to court in if there’s legal action under this document. It’s usually better to have a "home court" advantage. If your business is in New South Wales, make the forum the New South Wales courts.
-
-#### indemnity topics
-
-[FIRST AREA]
-
-
-[FIRST AREA]
-
-
-[FIRST AREA]
 
 #### indemnified risk list
 
