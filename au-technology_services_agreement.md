@@ -69,7 +69,7 @@ Contractor will provide support based on the details described in the Work Scope
 ## Failure to pay
 
 If the Customer fails to pay any amount due under the Agreement more than {{shut off period}}, the Contractor may immediately, at its discretion:
-- charge Client at an interest rate of interest equal to the [ATO GIC Rate](https://www.ato.gov.au/Rates/General-interest-charge-(GIC)-rates/); and
+- charge Client at an interest rate of interest equal to the <a href="https://www.ato.gov.au/Rates/General-interest-charge-(GIC)-rates/">ATO GIC Rate</a>; and
 - suspend the provision of any part of the Services to Client.
 
 ## Confidentiality
