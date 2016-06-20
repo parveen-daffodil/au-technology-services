@@ -166,19 +166,6 @@ means {{work scope}}.
 
 ## Variables
 
-#### disclosure parties
-
-- a government or regulatory agency requesting it;
-- facilitate a sale transaction in relation to the Contractor's business;
-- any contractor providing a good or service used to provide the Services;
-- its lawyers, insurance brokers or accountants; and
-- any related entity.
-
-#### risk list
-
-- [risk 1]
-- [risk 2]
-
 #### billing cycle period
 
 month
@@ -195,21 +182,19 @@ month
 
 `Guidance` The completion amount is the money paid after the completion of the services. It is usually defined as a percentage amount of the overall cost of the development services under the agreement.
 
-#### deadline
-
-22 March 2016
-
-`Guidance` Give yourself enough time! Remember that the date or timeframe that you enter in here must be honoured or you may have to reduce the price of the services to the customer.
-
 #### deposit amount
 
 50% of the total amount payable for the Services [OR] $ DOLLAR_AMOUNT
 
 `Guidance` The deposit is a non-refundable upfront payment for the services. It is usually defined as a percentage amount of the overall cost of the development services under the agreement. You could also use an amount, though.
 
-#### estimate timeframe
+#### disclosure parties
 
-3 months after the parties enter the Agreement
+- a government or regulatory agency requesting it;
+- facilitate a sale transaction in relation to the Contractor's business;
+- any contractor providing a good or service used to provide the Services;
+- its lawyers, insurance brokers or accountants; and
+- any related entity.
 
 #### fees table
 
@@ -250,27 +235,6 @@ New South Wales
 
 - any legal action taken by a third party alleging intellectual property infringement by the Customer in connection with the Services.
 
-#### licence characteristics
-
-for [period of time] that is non-transferrable, unsublicensable, for the territory of [country name]
-
-`Guidance` What you type here determines the kind of licence created. The table below works as follows:
-- "Words" are the relevant words in the default guidance text;
-- "Effect of Inclusion" means what happens to the licence if you leave the words in; and
-- "Effect of Deletion" means what happens to the licence if you delete the words.
-
-| Words | Effect of Inclusion | Effect of Deletion
-|----------------------|--------|--------
-| "for [period of time]" | licence will be granted for the length of time stipulated | licence lasts forever
-| "non-transferrable" | licence **cannot be transferred** to any third party | licence **can be transferred** to any third party
-| "unsublicensable" | licence **cannot be licenced** to any third party | licence **can be licenced** to any third party
-| "for the territory of [country name]" | fill in the country name, you’ll be limiting the licence to the country that you type in | licence is **global**
-#### license purpose
-
-any purpose whatsoever
-
-`Guidance` This variable sets out the boundaries for the use of the intellectual property. The default value here of "any purpose whatsoever" is very expansive: it allows the recipient of the license to use the code in whatever way they want to, which the ownership remains with the license giver.
-
 #### limitation amount
 
 the amount paid to Contractor by the Customer in exchange for the Services [OR] $AMOUNT
@@ -285,10 +249,6 @@ the amount paid to Contractor by the Customer in exchange for the Services [OR] 
 | DESCRIBE MILESTONE | PAYMENT
 
 `Guidance` This table variable is where you define the milestones for payment. The "Milestone" column is where the parties describe the services milestone that triggers the ability of the contractor to invoice for the amount in the "Payment" column. It's important to provide as much detail as possible about each milestone. An example might be, "Completion of the wireframe diagrams for the home page, profile page and news feed page."
-
-#### out scope rate
-
-$[*] per hour
 
 #### payment period
 
@@ -369,9 +329,3 @@ with 10 days of written notice to the other party
 $ AMOUNT (including $[*] GST)
 
 `Guidance` Fill in this variable with the total amount that the customer will pay the contractor for the services. It should be an all-inclusive amount because this is the _total_ amount. It’s probably a good idea to set out the amount of GST too.
-
-#### work scope document
-
-the document provided by Contractor to Customer entitled "Scope of Work", dated [insert date]
-
-`Guidance` Fill this in with a description of the "Scope of Work" document that sets out the specifications of work to be completed.
