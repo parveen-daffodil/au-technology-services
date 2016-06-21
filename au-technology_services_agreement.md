@@ -1,6 +1,11 @@
-# Software as a Service Agreement
+# Technology Services Agreement
 
-`Purpose` If you provide a software service to to people (and hold their data), this agreement handles it.
+`Purpose` This agreement covers services like:
+
+- Software as a Service (SaaS);
+- Infrastructure as a Service (IaaS);
+- managed services; and
+- web hosting.
 
 `Party 1 Name` Contractor
 
