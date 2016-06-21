@@ -1,6 +1,10 @@
 # Technology Services Agreement
 
-`Purpose` If you provide technology services to people, this agreement handles it.
+`Purpose` If you provide technology services to people, this agreement handles it.  It can be used for:
+
+- Software as a Service (SaaS);
+- Managed Services; and
+- other information technology services.
 
 `Party 1 Name` Contractor
 
