@@ -1,9 +1,9 @@
 # Technology Services Agreement
 
-`Purpose` This agreement covers services like:
+`Purpose` This agreement covers technology services like:
 
-- Software as a Service (SaaS);
-- Infrastructure as a Service (IaaS);
+- software as a service (SaaS);
+- infrastructure as a service (IaaS);
 - managed services; and
 - web hosting.
 
