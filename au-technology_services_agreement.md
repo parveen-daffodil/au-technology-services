@@ -117,7 +117,7 @@ The data uploaded can be really valuable.  Everyone needs to be clear about how 
 
 Client provides an [expansive licence](https://github.com/lawpatch/au-ip_license/blob/bb178c5e86fec053f249c72cb4d6cd56af88825b/au-license_ip.md) to Contractor in order to provide the Services.
 
-## Limitation
+## Limits on suing
 
 https://github.com/CodePact/au-components/blob/master/limitation.md
 
