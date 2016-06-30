@@ -31,7 +31,7 @@ https://github.com/CodePact/au-components/blob/master/payment_method.md
 
 ## Supplier control
 
-https://github.com/CodePact/au-components/tree/widgets
+https://github.com/CodePact/au-components/blob/widgets/supplier_control.md
 
 ## Setup
 
