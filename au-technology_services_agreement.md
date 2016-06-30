@@ -113,35 +113,7 @@ https://github.com/CodePact/au-components/blob/master/end_agreement.md
 
 ## Definitions
 
-### Agreement
-means the agreement arising between the parties in accordance with this document and the other documents referred to by this document.
-
-### Confidential Information
-means any information disclosed by the Customer to the Contractor in connection with the Services, not including information that:
-
-- is known to the Contractor at the time of disclosure;
-- is or becomes publicly accessible; or
-- is provided to the Contractor by a third party,
-
-unconnected with a breach of the Agreement by either party.
-
-### Data
-means any data or information conveyed to the Service by the Customer.
-
-### Product IP
-means the intellectual property in {{product intellectual property}}.
-
-### Service, Services
-means {{services description}}.
-
-### Support Policy
-means the document entitled {{support policy name}} at {{support policy URL}}.
-
-### Term
-means {{renewing period}}.
-
-### Work Scope
-means {{work scope}}.
+https://github.com/pjbrow/recursive_parser/blob/master/library_definitions.md
 
 ## Variables
 
