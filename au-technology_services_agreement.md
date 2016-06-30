@@ -53,7 +53,7 @@ https://github.com/CodePact/au-components/blob/widgets/pay_failure.md
 
 https://github.com/CodePact/au-components/blob/master/confidentiality.md
 
-## Accetpable content
+## Accetpable use
 
 https://github.com/CodePact/au-components/blob/widgets/acceptable_content.md
 
