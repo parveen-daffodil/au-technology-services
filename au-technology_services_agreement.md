@@ -37,37 +37,11 @@ Customer agrees that parts of the Services are controlled by third party contrac
 
 ## Setup
 
-Let's make clear who's responsible for setting up the services - it can take a great deal of time and effort.  Best that everyone's on the same page about who's responsible.
-
-### Contractor does all the setup.
-
-Contractor is responsible for the setup and installation of the Services.
-
-### Contractor does all the setup except for certain tasks.
-
-Contractor is responsible for the setup and installation of the Services, except for:
-
-{{setup exceptions}}
-
-### Contractor does none of the setup.
-
-Customer is entirely responsible for the setup and installation of the Services.
+https://github.com/CodePact/au-components/blob/widgets/service_setup.md
 
 ## Support and maintenance
 
-It's a good idea for a Customer to know just how much help you're willing to provide for them to use the services.  Writing a _Support Policy_ is one way to do this.
-
-### Contractor will provide support based on the Support Policy.
-
-Contractor will provide support and maintenance as described by the Support Policy.
-
-### Contractor will provide ad-hoc support based on its discretion.
-
-Contractor will provide support and maintenance to the Customer at its discretion.
-
-### Contractor will provide support based on the Work Scope.
-
-Contractor will provide support based on the details described in the Work Scope.
+https://github.com/CodePact/au-components/blob/widgets/support_maintenance.md
 
 ## Intellectual property protection
 
@@ -77,9 +51,7 @@ Contractor will provide support based on the details described in the Work Scope
 
 ## Failure to pay
 
-If the Customer fails to pay any amount due under the Agreement more than {{shut off period}}, the Contractor may immediately, at its discretion:
-- charge Client at an interest rate of interest equal to the <a href="https://www.ato.gov.au/Rates/General-interest-charge-(GIC)-rates/">ATO GIC Rate</a>; and
-- suspend the provision of any part of the Services to Client.
+https://github.com/CodePact/au-components/blob/widgets/pay_failure.md
 
 ## Confidentiality
 
