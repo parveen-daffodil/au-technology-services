@@ -29,11 +29,9 @@ https://github.com/CodePact/au-components/blob/master/payment_calculation.md
 
 https://github.com/CodePact/au-components/blob/master/payment_method.md
 
-## Third party control
+## Supplier control
 
-Customer agrees that parts of the Services are controlled by third party contractors, including:
-
-{{third party suppliers}}
+https://github.com/CodePact/au-components/tree/widgets
 
 ## Setup
 
