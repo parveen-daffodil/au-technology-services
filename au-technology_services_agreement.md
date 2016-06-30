@@ -53,17 +53,9 @@ https://github.com/CodePact/au-components/blob/widgets/pay_failure.md
 
 https://github.com/CodePact/au-components/blob/master/confidentiality.md
 
-## Use of service
+## Accetpable content
 
-Customer undertakes to use the Service:
-
-- in accordance with the law at all times; and
-- only in ways that the Service was designed to be used.
-
-Customer undertakes not to use the Service:
-
-- to bully, insult or harass people; and
-- in assosciation with malware or pornographic material.
+https://github.com/CodePact/au-components/blob/widgets/acceptable_content.md
 
 ## Privacy
 
