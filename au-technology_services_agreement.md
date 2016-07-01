@@ -1,11 +1,6 @@
 # Technology Services Agreement
 
-`Purpose` This agreement covers technology services like:
-
-- software as a service (SaaS);
-- infrastructure as a service (IaaS);
-- managed services; and
-- web hosting.
+`Purpose` This agreement covers technology services where the contractor is responsible for the customer's information technology service.
 
 `Party 1 Name` Contractor
 
