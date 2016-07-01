@@ -54,7 +54,7 @@ https://github.com/CodePact/au-components/blob/widgets/acceptable_content.md
 
 ## Privacy
 
-Customer represents and warrants that it is in full compliance with its obligations under any applicable privacy law in its use of the Services.
+https://github.com/CodePact/au-components/blob/widgets/privacy.md
 
 ## Data disclosure
 
