@@ -10,19 +10,19 @@
 
 ## Service access
 
-https://github.com/CodePact/au-components/blob/master/service_access.md
+https://github.com/CodePact/au-components/blob/widgets/service_access.md
 
 ## Agreement length
 
-https://github.com/CodePact/au-components/blob/master/agreement_duration.md
+https://github.com/CodePact/au-components/blob/widgets/agreement_duration.md
 
 ## Calculation of payment
 
-https://github.com/CodePact/au-components/blob/master/payment_calculation.md
+https://github.com/CodePact/au-components/blob/widgets/payment_calculation.md
 
 ## Payment method
 
-https://github.com/CodePact/au-components/blob/master/payment_method.md
+https://github.com/CodePact/au-components/blob/widgets/payment_method.md
 
 ## Failure to pay
 
@@ -46,11 +46,11 @@ https://github.com/CodePact/au-components/blob/widgets/ip_protection.md
 
 ## Failure to pay
 
-https://github.com/CodePact/au-components/blob/widgets/pay_failure.md
+https://github.com/CodePact/au-components/blob/widgets/payment_failure.md
 
 ## Confidentiality
 
-https://github.com/CodePact/au-components/blob/master/confidentiality.md
+https://github.com/CodePact/au-components/blob/widgets/confidentiality.md
 
 ## Acceptable use
 
@@ -74,27 +74,27 @@ https://github.com/CodePact/au-components/blob/widgets/data_backup.md
 
 ## Limits on suing
 
-https://github.com/CodePact/au-components/blob/master/limitation.md
+https://github.com/CodePact/au-components/blob/widgets/limitation.md
 
 ## Covering costs
 
-https://github.com/CodePact/au-components/blob/master/indemnity.md
+https://github.com/CodePact/au-components/blob/widgets/indemnity.md
 
 ## Agreement changes
 
-https://github.com/CodePact/au-components/blob/master/agreement_changes.md
+https://github.com/CodePact/au-components/blob/widgets/agreement_changes.md
 
 ## Cancellation for breach
 
-https://github.com/CodePact/au-components/blob/master/cancel_breach.md
+https://github.com/CodePact/au-components/blob/widgets/cancel_breach.md
 
 ## Cancellation for convenience
 
-https://github.com/CodePact/au-components/blob/master/cancel_convenience.md
+https://github.com/CodePact/au-components/blob/widgets/cancel_convenience.md
 
 ## Necessary bureaucracy
 
-https://github.com/CodePact/au-components/blob/master/end_agreement.md
+https://github.com/CodePact/au-components/blob/widgets/necessary_bureaucracy.md
 
 ## Definitions
 
