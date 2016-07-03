@@ -24,6 +24,10 @@ https://github.com/CodePact/au-components/blob/master/payment_calculation.md
 
 https://github.com/CodePact/au-components/blob/master/payment_method.md
 
+## Failure to pay
+
+https://github.com/CodePact/au-components/blob/widgets/payment_failure.md
+
 ## Supplier control
 
 https://github.com/CodePact/au-components/blob/widgets/supplier_control.md
@@ -50,7 +54,7 @@ https://github.com/CodePact/au-components/blob/master/confidentiality.md
 
 ## Acceptable use
 
-https://github.com/CodePact/au-components/blob/widgets/acceptable_content.md
+https://github.com/CodePact/au-components/blob/widgets/acceptable_use.md
 
 ## Privacy
 
@@ -63,6 +67,10 @@ https://github.com/CodePact/au-components/blob/widgets/data_disclosure.md
 ## Data rights
 
 https://github.com/CodePact/au-components/blob/widgets/data_rights.md
+
+## Data backup
+
+https://github.com/CodePact/au-components/blob/widgets/data_backup.md
 
 ## Limits on suing
 
