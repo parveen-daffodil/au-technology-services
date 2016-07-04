@@ -44,10 +44,6 @@ https://github.com/CodePact/au-components/blob/widgets/support_maintenance.md
 
 https://github.com/CodePact/au-components/blob/widgets/ip_protection.md
 
-## Failure to pay
-
-https://github.com/CodePact/au-components/blob/widgets/payment_failure.md
-
 ## Confidentiality
 
 https://github.com/CodePact/au-components/blob/widgets/confidentiality.md
