@@ -68,7 +68,7 @@ https://github.com/CodePact/au-components/blob/widgets/data_rights.md
 
 https://github.com/CodePact/au-components/blob/widgets/data_backup.md
 
-## Limits on suing
+## Claim limits
 
 https://github.com/CodePact/au-components/blob/widgets/limitation.md
 
