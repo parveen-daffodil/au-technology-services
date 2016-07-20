@@ -2,7 +2,7 @@
 
 `Purpose` This agreement covers technology services where the contractor is responsible for providing general information technology services to the customer.
 
-`Party 1 Name` Contractor
+`Party 1 Name` Provider
 
 `Party 2 Name` Customer
 
