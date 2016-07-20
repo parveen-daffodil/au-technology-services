@@ -1,6 +1,6 @@
 # Technology Services Agreement
 
-`Purpose` This agreement covers technology services where the contractor is responsible for providing general information technology services to the customer.
+`Purpose` This agreement covers technology services where the technology provider is responsible for providing general information technology services to the customer.
 
 `Party 1 Name` Provider
 
