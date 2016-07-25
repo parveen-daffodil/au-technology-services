@@ -10,87 +10,87 @@
 
 ## Service access
 
-https://github.com/CodePact/au-components/blob/widgets/service_access.md
+https://github.com/CodePact/au-components/blob/master/service_access.md
 
 ## Agreement length
 
-https://github.com/CodePact/au-components/blob/widgets/agreement_duration.md
+https://github.com/CodePact/au-components/blob/master/agreement_duration.md
 
 ## Calculation of payment
 
-https://github.com/CodePact/au-components/blob/widgets/payment_calculation.md
+https://github.com/CodePact/au-components/blob/master/payment_calculation.md
 
 ## Payment method
 
-https://github.com/CodePact/au-components/blob/widgets/payment_method.md
+https://github.com/CodePact/au-components/blob/master/payment_method.md
 
 ## Failure to pay
 
-https://github.com/CodePact/au-components/blob/widgets/payment_failure.md
+https://github.com/CodePact/au-components/blob/master/payment_failure.md
 
 ## Supplier control
 
-https://github.com/CodePact/au-components/blob/widgets/supplier_control.md
+https://github.com/CodePact/au-components/blob/master/supplier_control.md
 
 ## Setup
 
-https://github.com/CodePact/au-components/blob/widgets/service_setup.md
+https://github.com/CodePact/au-components/blob/master/service_setup.md
 
 ## Support and maintenance
 
-https://github.com/CodePact/au-components/blob/widgets/support_maintenance.md
+https://github.com/CodePact/au-components/blob/master/support_maintenance.md
 
 ## Intellectual property protection
 
-https://github.com/CodePact/au-components/blob/widgets/ip_protection.md
+https://github.com/CodePact/au-components/blob/master/ip_protection.md
 
 ## Confidentiality
 
-https://github.com/CodePact/au-components/blob/widgets/confidentiality.md
+https://github.com/CodePact/au-components/blob/master/confidentiality.md
 
 ## Acceptable use
 
-https://github.com/CodePact/au-components/blob/widgets/acceptable_use.md
+https://github.com/CodePact/au-components/blob/master/acceptable_use.md
 
 ## Privacy
 
-https://github.com/CodePact/au-components/blob/widgets/privacy.md
+https://github.com/CodePact/au-components/blob/master/privacy.md
 
 ## Data disclosure
 
-https://github.com/CodePact/au-components/blob/widgets/data_disclosure.md
+https://github.com/CodePact/au-components/blob/master/data_disclosure.md
 
 ## Data rights
 
-https://github.com/CodePact/au-components/blob/widgets/data_rights.md
+https://github.com/CodePact/au-components/blob/master/data_rights.md
 
 ## Data backup
 
-https://github.com/CodePact/au-components/blob/widgets/data_backup.md
+https://github.com/CodePact/au-components/blob/master/data_backup.md
 
 ## Claim limits
 
-https://github.com/CodePact/au-components/blob/widgets/limitation.md
+https://github.com/CodePact/au-components/blob/master/limitation.md
 
 ## Covering costs
 
-https://github.com/CodePact/au-components/blob/widgets/indemnity.md
+https://github.com/CodePact/au-components/blob/master/indemnity.md
 
 ## Agreement changes
 
-https://github.com/CodePact/au-components/blob/widgets/agreement_changes.md
+https://github.com/CodePact/au-components/blob/master/agreement_changes.md
 
 ## Cancellation for breach
 
-https://github.com/CodePact/au-components/blob/widgets/cancel_breach.md
+https://github.com/CodePact/au-components/blob/master/cancel_breach.md
 
 ## Cancellation for convenience
 
-https://github.com/CodePact/au-components/blob/widgets/cancel_convenience.md
+https://github.com/CodePact/au-components/blob/master/cancel_convenience.md
 
 ## Necessary bureaucracy
 
-https://github.com/CodePact/au-components/blob/widgets/necessary_bureaucracy.md
+https://github.com/CodePact/au-components/blob/master/necessary_bureaucracy.md
 
 ## Definitions
 
