@@ -8,14 +8,6 @@
 
 `Jurisdiction` Australia
 
-## Service access
-
-https://github.com/CodePact/au-components/blob/master/service_access.md
-
-## Agreement length
-
-https://github.com/CodePact/au-components/blob/master/agreement_duration.md
-
 ## Calculation of payment
 
 https://github.com/CodePact/au-components/blob/master/payment_calculation.md
@@ -27,6 +19,14 @@ https://github.com/CodePact/au-components/blob/master/payment_method.md
 ## Failure to pay
 
 https://github.com/CodePact/au-components/blob/master/payment_failure.md
+
+## Agreement length
+
+https://github.com/CodePact/au-components/blob/master/agreement_duration.md
+
+## Service access
+
+https://github.com/CodePact/au-components/blob/master/service_access.md
 
 ## Supplier control
 
